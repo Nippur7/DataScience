@@ -1,0 +1,292 @@
+IdProducto,Producto,Precio,IdTipoProducto
+42737,"Epson Copyfax 2000",1658.00,8
+42754,"Mot Asrock H110m-Hds",1237.50,9
+42755,"Mot Asrock A58m-Vg3+",1079.32,9
+42756,"Mot Ecs Kam1-I Am1",638.66,9
+42757,"Mot Asrock B150m-Hds",1784.42,9
+42758,"Mot Asrock B85m S115",1819.18,9
+42759,"Mot Asrock Fm2a88m p",1800.48,9
+42760,"Mot Asrock N68-Gs4 a",1637.24,9
+42761,"Mot Msi A68hm-E33 Am",1384.46,9
+42762,"Mot Msi B150m B150m",2106.06,9
+42763,"Mot Msi H110m-Gaming",2118.38,9
+42764,"Mot Msi H110m-Pro-Vh",1385.78,9
+42765,"Mot Msi H110m-Pro-Vh",1938.42,9
+42766,"Mot Msi Z270 Gaming",7011.62,9
+42767,"Mot Msi Z270 Z270-a",3485.68,9
+42768,"Mot Msi B250m Pro-Vh",1923.68,9
+42769,"Mot Supermicro C7b25",3039.08,9
+42770,"Hd 4tb W.Digital Pur",3597.22,9
+42771,"Hd 2tb Seagate 5400",2554.20,9
+42772,"Hd 6tb W.Digital Pur",6569.86,9
+42773,"Hd 8tb W.Digital Pur",8703.64,9
+42774,"Hd Ssd 512gb Intel s",6048.90,9
+42775,"Hd Ssd 256gb Intel s",3206.06,9
+42776,"Hd Ssd 120gb Sandisk",1423.40,9
+42777,"Hd 2tb Seagate 5400",2557.50,9
+42778,"Hd 3tb W.Digital Sat",2807.64,9
+42779,"Gab Qnap Ts-431 Nas",9555.04,9
+42780,"Hd 5tb Seagate Ext u",4028.86,9
+42781,"Hd 2tb Seagate Ext u",2098.80,9
+42782,"Hd 4tb Seagate Ext u",3373.92,9
+42783,"Hd 2tb Seagate Ext u",2452.34,9
+42784,"Hd 1tb Seagate Ext u",1748.78,9
+42785,"Hd 1tb Ext W.Digital",1597.42,9
+42786,"Mem Usb 64gb Kingsto",795.74,9
+42787,"Mem Ddr4 4gb 2133mhz",1366.42,9
+42788,"Mem Usb 32gb Kingsto",421.96,9
+42789,"Mem Usb 16gb Kingsto",218.02,9
+42790,"Mem Usb 64gb Kingsto",762.96,9
+42791,"Mem Sd Micro 16gb Ki",258.28,9
+42792,"Mem Sd Micro 32gb Ki",479.82,9
+42793,"Mem Sd Micro 64gb Ki",871.86,9
+42794,"Mem Sd Micro 16gb So",305.36,9
+42795,"Mem Sd Micro 32gb So",543.18,9
+42796,"Mem Sd Micro 32gb Sa",457.82,9
+42797,"Mem Ddr4 16gb 2400mh",4845.50,9
+42798,"Mem Ddr3 8gb 1600mhz",1556.28,9
+42799,"Mem Ddr3 8gb 1600mhz",1536.04,9
+42800,"Mem Ddr3 8gb 1600mhz",1642.74,9
+42801,"Mem Ddr4 8gb 2400mhz",2802.80,9
+42802,Producto1,0.00,1
+42803,Producto2,244444442.00,1
+42804,Producto3,244444442.00,1
+42805,Producto4,244444442.00,1
+42806,Producto5,0.00,1
+42807,Producto6,0.00,1
+42808,Producto7,244444442.00,1
+42809,Producto8,0.00,1
+42810,"Cd Dvdrw 12x Lg Blur",1282.82,7
+42811,"Cd Dvdrw 8x Pioneer",2559.92,7
+42812,"Cd Dvd+-Rw 24x Lg Sa",376.64,7
+42813,"Cd Dvd+-Rw 24x Samsu",377.96,7
+42814,"Cd Dvd+-Rw 24x Samsu",369.82,7
+42815,"Cd Dvd+-Rw8x Lite-On",599.50,7
+42816,"Gab Rio Toro Gaming",1254.88,5
+42817,"Gab Sentey G18-1356-",813.12,5
+42818,"Gab Rio Toro Compact",1907.62,5
+42819,"Gab Atx Game Pro Kit",860.42,5
+42820,"Gab Game Pro G7 S/Fu",652.74,5
+42821,"Gab Game Pro G1 S/Fu",653.62,5
+42822,"Gab Atx Game Pro Kit",816.86,5
+42823,"Gab Atx Game Pro Kit",904.42,5
+42824,"Gab Taiding 0918bb s",584.76,5
+42825,"Gab Taiding F100 S/f",554.18,5
+42826,"Gab Taiding F200 S/f",537.24,5
+42827,"Gab Taiding 0802bb s",512.38,5
+42828,"Gab Atx Game Pro Kit",906.18,5
+42829,"Gab Atx Game Pro Kit",906.18,5
+42830,"Gab Taiding F300 Neg",486.42,5
+42831,"Gab Taiding M800-A n",369.60,5
+42832,"Parlante Jbl Go Blac",818.84,2
+42833,"Parlante Jbl Go Blue",819.06,2
+42834,"Parlante Jbl Go Gray",818.84,2
+42835,"Parlante Jbl Go Oran",818.84,2
+42836,"Parlante Jbl Go Red",823.24,2
+42837,"Parlante Stay-On So-",430.32,2
+42838,"Parlante Stay-On So-",897.38,2
+42839,"Parlante Kingta So-1",353.32,2
+42840,"Parlante Kingta So-1",353.32,2
+42841,"Parlante Kingta So-1",353.32,2
+42842,"Parlante Kingta So-1",353.32,2
+42843,"Parlante Kingta So-1",684.20,2
+42844,"Parlante Jbl Clip2 g",1810.38,2
+42845,"Parlante Jbl Go Teal",823.24,2
+42846,"Parlante Jbl Flip 4",2846.58,2
+42847,"Parlante Jbl Flip 4",2846.58,2
+42848,"Gabinete Gamer Xd345",1588.00,6
+42849,"Gabinete Gamer Xd346",1542.00,6
+42850,"Aire Comprimido Blow",279.00,10
+42851,"Alcohol Isotronix 36",137.00,10
+42852,"Apoya Muñecas Con Ge",152.00,1
+42853,"Apoya Muñecas Fellow",727.00,1
+42854,"Atril 4en1 Fellowes",1115.00,1
+42855,"Base Para Notebook f",1130.00,3
+42856,"Base Para Notebook o",481.00,3
+42857,"Base Para Notebook o",542.00,3
+42858,"Base Para Notebook o",505.00,3
+42859,"Base Para Notebook o",610.00,3
+42860,"Base Para Notebook o",587.00,3
+42861,"Base Para Notebook o",542.00,3
+42862,"Base Para Notebook o",512.00,3
+42863,"Base Para Tablet Fel",398.00,3
+42864,"Botella Brother Amar",199.00,8
+42865,"Botella Brother Cyan",199.00,8
+42866,"Botella Brother Mage",199.00,8
+42867,"Botella Brother Negr",199.00,8
+42868,"Botella Epson Amaril",199.00,8
+42869,"Botella Epson Amaril",199.00,8
+42870,"Candado Para Noteboo",178.00,1
+42871,"Cartucho Brother Ama",560.00,8
+42872,"Cartucho Brother Ama",560.00,8
+42873,"Cartucho Brother Cya",560.00,8
+42874,"Cartucho Brother Cya",560.00,8
+42875,"Cartucho Brother Mag",560.00,8
+42876,"Cartucho Brother Mag",560.00,8
+42877,"Cartucho Brother Mag",560.00,8
+42878,"Cartucho Brother Neg",560.00,8
+42879,"Cartucho Brother Neg",560.00,8
+42880,"Cartucho Epson Amari",560.00,8
+42881,"Cartucho Hp Tricolor",498.00,8
+42882,"Cartucho Hp Tricolor",498.00,8
+42883,"Cartucho Hp Tricolor",498.00,8
+42884,"Cartucho Hp Tricolor",498.00,8
+42885,"Cartucho Hp Tricolor",498.00,8
+42886,"Cartucho Orink/Epson",498.00,8
+42887,"Cartucho Orink/Epson",498.00,8
+42888,"Cartucho Orink/Epson",498.00,8
+42889,"Cinta Para Impresora",515.00,8
+42890,"Cinta Para Impresora",515.00,8
+42891,"Cinta Para Impresora",515.00,8
+42892,"Cinta Para Impresora",515.00,8
+42893,"Cinta Para Impresora",515.00,8
+42894,"Cinta Para Impresora",515.00,8
+42895,"Cinta Para Impresora",515.00,8
+42896,"Cinta Para Impresora",515.00,8
+42897,"Cinta Para Impresora",515.00,8
+42898,"Cinta Para Impresora",515.00,8
+42899,"Compitt Kit Kcel",199.00,11
+42900,"Compitt Kit Kleen Sc",245.00,11
+42901,"Contact Tronix Eco x",196.00,11
+42902,"Dvd+r Verbatim 95059",258.00,7
+42903,"Dvd+rw Verbatim 9483",269.00,7
+42904,"Dvd-R Banana 16x 4.7",135.00,7
+42905,"Dvd-R Verbatim 95093",456.00,7
+42906,"Dvd-Rw Verbatim 9517",321.00,7
+42907,"Funda Para Disco Rig",456.00,4
+42908,"Funda Para Netbook c",1478.00,4
+42909,"Funda Para Notebook",1500.00,4
+42910,"Funda Para Notebook",1502.00,4
+42911,"Funda Para Notebook",1789.00,4
+42912,"Funda Para Notebook",1654.00,4
+42913,"Funda Para Notebook",1357.00,4
+42914,"Funda Para Notebook",1489.00,4
+42915,"Funda Para Notebook",1765.00,4
+42916,"Funda Para Notebook",1356.00,4
+42917,"Funda Para Notebook",1351.35,4
+42918,"Funda Para Tablet Ca",789.00,4
+42919,"Funda Para Tablet Ca",654.00,4
+42920,"Funda Para Tablet Ca",789.00,4
+42921,"Funda Para Tablet Ca",756.00,4
+42922,"Funda Para Tablet Ca",741.00,4
+42923,"Funda Para Tablet Ca",753.00,4
+42924,"Funda Para Tablet Ca",625.00,4
+42925,"Funda Para Tablet Ca",3.00,4
+42926,"Grasa Siliconada Lub",79.00,10
+42927,"Grasa Siliconada Lub",91.00,10
+42928,"Identificador De Cab",123.00,11
+42929,"Kit De Limpieza Bril",321.00,10
+42930,"Limpiador Brillvex 4",156.00,10
+42931,"Limpiador Brillvex l",324.00,10
+42932,"Luz Led Usb Nisuta m",156.00,11
+42933,"Mochila Hp Active Ba",1154.00,4
+42934,"Mochila Hp Active Ba",1789.00,4
+42935,"Mochila Notebook Biw",2456.00,4
+42936,"Mochila Notebook Biw",3549.00,4
+42937,"Mochila Notebook Biw",2458.00,4
+42938,"Mochila Notebook Cas",2679.00,4
+42939,"Mochila Notebook Cas",2915.00,4
+42940,"Mochila Notebook Cas",2162.00,4
+42941,"Mochila Notebook Cas",2971.00,4
+42942,"Mochila Notebook Cas",2749.00,4
+42943,"Mochila Notebook Cas",2190.00,4
+42944,"Mochila Notebook Cas",3686.00,4
+42945,"Mochila Notebook Cas",3210.00,4
+42946,"Mochila Notebook Cas",2173.00,4
+42947,"Mochila Notebook Cas",2974.00,4
+42948,"Mochila Notebook Cas",2786.00,4
+42949,"Mochila Notebook Cas",2015.00,4
+42950,"Mochila Notebook Cas",2603.00,4
+42951,"Mochila Notebook Cas",3043.00,4
+42952,"Mochila Notebook Cas",3978.00,4
+42953,"Mochila Notebook Cas",3620.00,4
+42954,"Mochila Notebook Cas",2554.00,4
+42955,"Mochila Notebook Cas",2366.00,4
+42956,"Mochila Notebook Cas",2093.00,4
+42957,"Mochila Notebook Cas",2789.00,4
+42958,"Mochila Notebook Cas",3763.00,4
+42959,"Mochila Notebook Hp",4141.00,4
+42960,"Mochila Notebook Hp",4125.00,4
+42961,"Mochila Notebook Hp",2867.00,4
+42962,"Mochila Notebook Sam",2241.00,4
+42963,"Mochila Notebook Sam",2355.00,4
+42964,"Mochila Notebook Sam",2824.00,4
+42965,"Mochila Notebook Sam",2281.00,4
+42966,"Mochila Notebook Sam",3415.00,4
+42967,"Mochila Notebook Sam",3365.00,4
+42968,"Mochila Notebook Sam",3445.00,4
+42969,"Mochila Notebook Sam",3839.00,4
+42970,"Mochila Notebook Sam",3001.00,4
+42971,"Mochila Notebook Sam",2762.00,4
+42972,"Morral Para Netbook",2741.00,4
+42973,"Pad Mouse Kingston h",123.00,11
+42974,"Pad Para Mouse Fello",214.00,11
+42975,"Pad Para Mouse Fello",215.00,11
+42976,"Pad Para Mouse Geniu",216.00,11
+42977,"Pad Para Mouse Logit",111.00,11
+42978,"Pad Para Mouse Logit",112.00,11
+42979,"Pad Para Mouse Tripl",113.00,11
+42980,"Pad Para Mouse Tripl",114.00,11
+42981,"Precintos Nisuta 100",52.00,11
+42982,"Protector Para Table",13.00,11
+42983,"Soporte Para Tablet",354.00,3
+42984,"Soporte Para Tablet",258.00,3
+42985,"Tambor De Imagen Bro",1456.00,8
+42986,"Tambor De Imagen Bro",354.00,8
+42987,"Toner Brother Amaril",456.00,8
+42988,"Toner Brother Cyan t",598.00,8
+42989,"Toner Brother Magent",413.00,8
+42990,"Toner Brother Negro",353.00,8
+42991,"Toner Brother Negro",438.00,8
+42992,"Toner Brother Negro",570.00,8
+42993,"Toner Brother Negro",507.00,8
+42994,"Toner Canon Amarillo",579.00,8
+42995,"Toner Canon Cyan 131",364.00,8
+42996,"Toner Canon Magenta",518.00,8
+42997,"Toner Canon Negro 13",485.00,8
+42998,"Toner Hp Negro Cf217",529.00,8
+42999,"Toner Hp Negro Cf226",547.00,8
+43000,"Toner Hp Negro Cf280",374.00,8
+43001,"Toner Hp Negro Cf283",625.00,8
+43002,"Toner Hp Negro Cf283",414.00,8
+43003,"Toner Hp Negro Cf410",442.00,8
+43004,"Toner Hp Negro Q2612",373.00,8
+43005,"Toner Hp Negro Q6000",421.00,8
+43006,"Toner Hp Negro Q7553",519.00,8
+43007,"Toner Magna/Hp Negro",407.00,8
+43008,"Toner Magna/Hp Negro",389.00,8
+43009,"Toner Magna/Hp Negro",563.00,8
+43010,"Toner Magna/Hp Negro",387.00,8
+43011,"Toner Powertec/Hp Ne",387.00,8
+43012,"Toner Samsung Amaril",510.00,8
+43013,"Toner Samsung Amaril",354.00,8
+43014,"Toner Samsung Cyan c",502.00,8
+43015,"Toner Samsung Cyan c",483.00,8
+43016,"Toner Samsung Magent",454.00,8
+43017,"Toner Samsung Magent",358.00,8
+43018,"Toner Samsung Magent",437.00,8
+43019,"Toner Samsung Magent",413.00,8
+43020,"Toner Samsung Negro",562.00,8
+43021,"Toner Samsung Negro",435.00,8
+43022,"Toner Samsung Negro",422.00,8
+43023,"Toner Samsung Negro",643.00,8
+43024,"Toner Samsung Negro",508.00,8
+43025,"Toner Samsung Negro",550.00,8
+43026,"Toner Samsung Negro",530.00,8
+43027,"Toner Samsung Negro",461.00,8
+43028,"Valija Notebook Case",942.00,4
+43029,"Valija Notebook Case",1094.00,4
+43030,"Valija Notebook Case",1175.00,4
+43031,"Valija Notebook Case",1191.00,4
+43032,"Valija Notebook Case",953.00,4
+43033,"Valija Notebook Case",1182.00,4
+43034,"Valija Notebook Case",1004.00,4
+43035,"Valija Notebook Case",1159.00,4
+43036,"Valija Notebook Case",744.00,4
+43037,"Valija Notebook Case",1137.00,4
+43038,"Valija Notebook Case",1163.00,4
+43039,"Valija Notebook Case",815.00,4
+43040,"Valija Notebook Case",757.00,4
+43041,"Valija Notebook Case",779.00,4
+43042,"Valija Notebook Case",1121.00,4
+43043,"Valija Notebook Case",1159.00,4

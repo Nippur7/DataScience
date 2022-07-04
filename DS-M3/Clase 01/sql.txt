@@ -1,0 +1,12 @@
+update `sucursales` set `Direccion` = replace(`Direccion`, 'í±', 'ñ');
+
+update `sucursales` set `Sucursal` = replace(`Sucursal`, 'Ã³', 'ó');
+update `sucursales` set `Sucursal` = replace(`Sucursal`, 'Ã¡', 'á');
+
+
+update `sucursales` set `Localidad` = replace(`Localidad`, 'Ã³', 'ó');
+update `sucursales` set `Localidad` = replace(`Localidad`, 'Ã­', 'í');
+update `sucursales` set `Localidad` = replace(`Localidad`, 'Ã¡', 'á');
+
+
+Ã³ ó
