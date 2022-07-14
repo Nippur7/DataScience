@@ -1,0 +1,553 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<wb:countries page="4" pages="6" per_page="50" total="299" xmlns:wb="http://www.worldbank.org">
+  <wb:country id="KNA">
+    <wb:iso2Code>KN</wb:iso2Code>
+    <wb:name>St. Kitts and Nevis</wb:name>
+    <wb:region id="LCN" iso2code="ZJ">Latin America &amp; Caribbean </wb:region>
+    <wb:adminregion id="" iso2code="" />
+    <wb:incomeLevel id="HIC" iso2code="XD">High income</wb:incomeLevel>
+    <wb:lendingType id="IBD" iso2code="XF">IBRD</wb:lendingType>
+    <wb:capitalCity>Basseterre</wb:capitalCity>
+    <wb:longitude>-62.7309</wb:longitude>
+    <wb:latitude>17.3</wb:latitude>
+  </wb:country>
+  <wb:country id="KOR">
+    <wb:iso2Code>KR</wb:iso2Code>
+    <wb:name>Korea, Rep.</wb:name>
+    <wb:region id="EAS" iso2code="Z4">East Asia &amp; Pacific</wb:region>
+    <wb:adminregion id="" iso2code="" />
+    <wb:incomeLevel id="HIC" iso2code="XD">High income</wb:incomeLevel>
+    <wb:lendingType id="LNX" iso2code="XX">Not classified</wb:lendingType>
+    <wb:capitalCity>Seoul</wb:capitalCity>
+    <wb:longitude>126.957</wb:longitude>
+    <wb:latitude>37.5323</wb:latitude>
+  </wb:country>
+  <wb:country id="KWT">
+    <wb:iso2Code>KW</wb:iso2Code>
+    <wb:name>Kuwait</wb:name>
+    <wb:region id="MEA" iso2code="ZQ">Middle East &amp; North Africa</wb:region>
+    <wb:adminregion id="" iso2code="" />
+    <wb:incomeLevel id="HIC" iso2code="XD">High income</wb:incomeLevel>
+    <wb:lendingType id="LNX" iso2code="XX">Not classified</wb:lendingType>
+    <wb:capitalCity>Kuwait City</wb:capitalCity>
+    <wb:longitude>47.9824</wb:longitude>
+    <wb:latitude>29.3721</wb:latitude>
+  </wb:country>
+  <wb:country id="LAC">
+    <wb:iso2Code>XJ</wb:iso2Code>
+    <wb:name>Latin America &amp; Caribbean (excluding high income)</wb:name>
+    <wb:region id="NA" iso2code="NA">Aggregates</wb:region>
+    <wb:adminregion id="" iso2code="" />
+    <wb:incomeLevel id="NA" iso2code="NA">Aggregates</wb:incomeLevel>
+    <wb:lendingType id="" iso2code="">Aggregates</wb:lendingType>
+    <wb:capitalCity />
+    <wb:longitude />
+    <wb:latitude />
+  </wb:country>
+  <wb:country id="LAO">
+    <wb:iso2Code>LA</wb:iso2Code>
+    <wb:name>Lao PDR</wb:name>
+    <wb:region id="EAS" iso2code="Z4">East Asia &amp; Pacific</wb:region>
+    <wb:adminregion id="EAP" iso2code="4E">East Asia &amp; Pacific (excluding high income)</wb:adminregion>
+    <wb:incomeLevel id="LMC" iso2code="XN">Lower middle income</wb:incomeLevel>
+    <wb:lendingType id="IDX" iso2code="XI">IDA</wb:lendingType>
+    <wb:capitalCity>Vientiane</wb:capitalCity>
+    <wb:longitude>102.177</wb:longitude>
+    <wb:latitude>18.5826</wb:latitude>
+  </wb:country>
+  <wb:country id="LBN">
+    <wb:iso2Code>LB</wb:iso2Code>
+    <wb:name>Lebanon</wb:name>
+    <wb:region id="MEA" iso2code="ZQ">Middle East &amp; North Africa</wb:region>
+    <wb:adminregion id="MNA" iso2code="XQ">Middle East &amp; North Africa (excluding high income)</wb:adminregion>
+    <wb:incomeLevel id="LMC" iso2code="XN">Lower middle income</wb:incomeLevel>
+    <wb:lendingType id="IBD" iso2code="XF">IBRD</wb:lendingType>
+    <wb:capitalCity>Beirut</wb:capitalCity>
+    <wb:longitude>35.5134</wb:longitude>
+    <wb:latitude>33.8872</wb:latitude>
+  </wb:country>
+  <wb:country id="LBR">
+    <wb:iso2Code>LR</wb:iso2Code>
+    <wb:name>Liberia</wb:name>
+    <wb:region id="SSF" iso2code="ZG">Sub-Saharan Africa </wb:region>
+    <wb:adminregion id="SSA" iso2code="ZF">Sub-Saharan Africa (excluding high income)</wb:adminregion>
+    <wb:incomeLevel id="LIC" iso2code="XM">Low income</wb:incomeLevel>
+    <wb:lendingType id="IDX" iso2code="XI">IDA</wb:lendingType>
+    <wb:capitalCity>Monrovia</wb:capitalCity>
+    <wb:longitude>-10.7957</wb:longitude>
+    <wb:latitude>6.30039</wb:latitude>
+  </wb:country>
+  <wb:country id="LBY">
+    <wb:iso2Code>LY</wb:iso2Code>
+    <wb:name>Libya</wb:name>
+    <wb:region id="MEA" iso2code="ZQ">Middle East &amp; North Africa</wb:region>
+    <wb:adminregion id="MNA" iso2code="XQ">Middle East &amp; North Africa (excluding high income)</wb:adminregion>
+    <wb:incomeLevel id="UMC" iso2code="XT">Upper middle income</wb:incomeLevel>
+    <wb:lendingType id="IBD" iso2code="XF">IBRD</wb:lendingType>
+    <wb:capitalCity>Tripoli</wb:capitalCity>
+    <wb:longitude>13.1072</wb:longitude>
+    <wb:latitude>32.8578</wb:latitude>
+  </wb:country>
+  <wb:country id="LCA">
+    <wb:iso2Code>LC</wb:iso2Code>
+    <wb:name>St. Lucia</wb:name>
+    <wb:region id="LCN" iso2code="ZJ">Latin America &amp; Caribbean </wb:region>
+    <wb:adminregion id="LAC" iso2code="XJ">Latin America &amp; Caribbean (excluding high income)</wb:adminregion>
+    <wb:incomeLevel id="UMC" iso2code="XT">Upper middle income</wb:incomeLevel>
+    <wb:lendingType id="IDB" iso2code="XH">Blend</wb:lendingType>
+    <wb:capitalCity>Castries</wb:capitalCity>
+    <wb:longitude>-60.9832</wb:longitude>
+    <wb:latitude>14</wb:latitude>
+  </wb:country>
+  <wb:country id="LCN">
+    <wb:iso2Code>ZJ</wb:iso2Code>
+    <wb:name>Latin America &amp; Caribbean </wb:name>
+    <wb:region id="NA" iso2code="NA">Aggregates</wb:region>
+    <wb:adminregion id="" iso2code="" />
+    <wb:incomeLevel id="NA" iso2code="NA">Aggregates</wb:incomeLevel>
+    <wb:lendingType id="" iso2code="">Aggregates</wb:lendingType>
+    <wb:capitalCity />
+    <wb:longitude />
+    <wb:latitude />
+  </wb:country>
+  <wb:country id="LDC">
+    <wb:iso2Code>XL</wb:iso2Code>
+    <wb:name>Least developed countries: UN classification</wb:name>
+    <wb:region id="NA" iso2code="NA">Aggregates</wb:region>
+    <wb:adminregion id="" iso2code="" />
+    <wb:incomeLevel id="NA" iso2code="NA">Aggregates</wb:incomeLevel>
+    <wb:lendingType id="" iso2code="">Aggregates</wb:lendingType>
+    <wb:capitalCity />
+    <wb:longitude />
+    <wb:latitude />
+  </wb:country>
+  <wb:country id="LIC">
+    <wb:iso2Code>XM</wb:iso2Code>
+    <wb:name>Low income</wb:name>
+    <wb:region id="NA" iso2code="NA">Aggregates</wb:region>
+    <wb:adminregion id="" iso2code="" />
+    <wb:incomeLevel id="NA" iso2code="NA">Aggregates</wb:incomeLevel>
+    <wb:lendingType id="" iso2code="">Aggregates</wb:lendingType>
+    <wb:capitalCity />
+    <wb:longitude />
+    <wb:latitude />
+  </wb:country>
+  <wb:country id="LIE">
+    <wb:iso2Code>LI</wb:iso2Code>
+    <wb:name>Liechtenstein</wb:name>
+    <wb:region id="ECS" iso2code="Z7">Europe &amp; Central Asia</wb:region>
+    <wb:adminregion id="" iso2code="" />
+    <wb:incomeLevel id="HIC" iso2code="XD">High income</wb:incomeLevel>
+    <wb:lendingType id="LNX" iso2code="XX">Not classified</wb:lendingType>
+    <wb:capitalCity>Vaduz</wb:capitalCity>
+    <wb:longitude>9.52148</wb:longitude>
+    <wb:latitude>47.1411</wb:latitude>
+  </wb:country>
+  <wb:country id="LKA">
+    <wb:iso2Code>LK</wb:iso2Code>
+    <wb:name>Sri Lanka</wb:name>
+    <wb:region id="SAS" iso2code="8S">South Asia</wb:region>
+    <wb:adminregion id="SAS" iso2code="8S">South Asia</wb:adminregion>
+    <wb:incomeLevel id="LMC" iso2code="XN">Lower middle income</wb:incomeLevel>
+    <wb:lendingType id="IBD" iso2code="XF">IBRD</wb:lendingType>
+    <wb:capitalCity>Colombo</wb:capitalCity>
+    <wb:longitude>79.8528</wb:longitude>
+    <wb:latitude>6.92148</wb:latitude>
+  </wb:country>
+  <wb:country id="LMC">
+    <wb:iso2Code>XN</wb:iso2Code>
+    <wb:name>Lower middle income</wb:name>
+    <wb:region id="NA" iso2code="NA">Aggregates</wb:region>
+    <wb:adminregion id="" iso2code="" />
+    <wb:incomeLevel id="NA" iso2code="NA">Aggregates</wb:incomeLevel>
+    <wb:lendingType id="" iso2code="">Aggregates</wb:lendingType>
+    <wb:capitalCity />
+    <wb:longitude />
+    <wb:latitude />
+  </wb:country>
+  <wb:country id="LMY">
+    <wb:iso2Code>XO</wb:iso2Code>
+    <wb:name>Low &amp; middle income</wb:name>
+    <wb:region id="NA" iso2code="NA">Aggregates</wb:region>
+    <wb:adminregion id="" iso2code="" />
+    <wb:incomeLevel id="NA" iso2code="NA">Aggregates</wb:incomeLevel>
+    <wb:lendingType id="" iso2code="">Aggregates</wb:lendingType>
+    <wb:capitalCity />
+    <wb:longitude />
+    <wb:latitude />
+  </wb:country>
+  <wb:country id="LSO">
+    <wb:iso2Code>LS</wb:iso2Code>
+    <wb:name>Lesotho</wb:name>
+    <wb:region id="SSF" iso2code="ZG">Sub-Saharan Africa </wb:region>
+    <wb:adminregion id="SSA" iso2code="ZF">Sub-Saharan Africa (excluding high income)</wb:adminregion>
+    <wb:incomeLevel id="LMC" iso2code="XN">Lower middle income</wb:incomeLevel>
+    <wb:lendingType id="IDX" iso2code="XI">IDA</wb:lendingType>
+    <wb:capitalCity>Maseru</wb:capitalCity>
+    <wb:longitude>27.7167</wb:longitude>
+    <wb:latitude>-29.5208</wb:latitude>
+  </wb:country>
+  <wb:country id="LTE">
+    <wb:iso2Code>V3</wb:iso2Code>
+    <wb:name>Late-demographic dividend</wb:name>
+    <wb:region id="NA" iso2code="NA">Aggregates</wb:region>
+    <wb:adminregion id="" iso2code="" />
+    <wb:incomeLevel id="NA" iso2code="NA">Aggregates</wb:incomeLevel>
+    <wb:lendingType id="" iso2code="">Aggregates</wb:lendingType>
+    <wb:capitalCity />
+    <wb:longitude />
+    <wb:latitude />
+  </wb:country>
+  <wb:country id="LTU">
+    <wb:iso2Code>LT</wb:iso2Code>
+    <wb:name>Lithuania</wb:name>
+    <wb:region id="ECS" iso2code="Z7">Europe &amp; Central Asia</wb:region>
+    <wb:adminregion id="" iso2code="" />
+    <wb:incomeLevel id="HIC" iso2code="XD">High income</wb:incomeLevel>
+    <wb:lendingType id="LNX" iso2code="XX">Not classified</wb:lendingType>
+    <wb:capitalCity>Vilnius</wb:capitalCity>
+    <wb:longitude>25.2799</wb:longitude>
+    <wb:latitude>54.6896</wb:latitude>
+  </wb:country>
+  <wb:country id="LUX">
+    <wb:iso2Code>LU</wb:iso2Code>
+    <wb:name>Luxembourg</wb:name>
+    <wb:region id="ECS" iso2code="Z7">Europe &amp; Central Asia</wb:region>
+    <wb:adminregion id="" iso2code="" />
+    <wb:incomeLevel id="HIC" iso2code="XD">High income</wb:incomeLevel>
+    <wb:lendingType id="LNX" iso2code="XX">Not classified</wb:lendingType>
+    <wb:capitalCity>Luxembourg</wb:capitalCity>
+    <wb:longitude>6.1296</wb:longitude>
+    <wb:latitude>49.61</wb:latitude>
+  </wb:country>
+  <wb:country id="LVA">
+    <wb:iso2Code>LV</wb:iso2Code>
+    <wb:name>Latvia</wb:name>
+    <wb:region id="ECS" iso2code="Z7">Europe &amp; Central Asia</wb:region>
+    <wb:adminregion id="" iso2code="" />
+    <wb:incomeLevel id="HIC" iso2code="XD">High income</wb:incomeLevel>
+    <wb:lendingType id="LNX" iso2code="XX">Not classified</wb:lendingType>
+    <wb:capitalCity>Riga</wb:capitalCity>
+    <wb:longitude>24.1048</wb:longitude>
+    <wb:latitude>56.9465</wb:latitude>
+  </wb:country>
+  <wb:country id="MAC">
+    <wb:iso2Code>MO</wb:iso2Code>
+    <wb:name>Macao SAR, China</wb:name>
+    <wb:region id="EAS" iso2code="Z4">East Asia &amp; Pacific</wb:region>
+    <wb:adminregion id="" iso2code="" />
+    <wb:incomeLevel id="HIC" iso2code="XD">High income</wb:incomeLevel>
+    <wb:lendingType id="LNX" iso2code="XX">Not classified</wb:lendingType>
+    <wb:capitalCity />
+    <wb:longitude>113.55</wb:longitude>
+    <wb:latitude>22.1667</wb:latitude>
+  </wb:country>
+  <wb:country id="MAF">
+    <wb:iso2Code>MF</wb:iso2Code>
+    <wb:name>St. Martin (French part)</wb:name>
+    <wb:region id="LCN" iso2code="ZJ">Latin America &amp; Caribbean </wb:region>
+    <wb:adminregion id="" iso2code="" />
+    <wb:incomeLevel id="HIC" iso2code="XD">High income</wb:incomeLevel>
+    <wb:lendingType id="LNX" iso2code="XX">Not classified</wb:lendingType>
+    <wb:capitalCity>Marigot</wb:capitalCity>
+    <wb:longitude />
+    <wb:latitude />
+  </wb:country>
+  <wb:country id="MAR">
+    <wb:iso2Code>MA</wb:iso2Code>
+    <wb:name>Morocco</wb:name>
+    <wb:region id="MEA" iso2code="ZQ">Middle East &amp; North Africa</wb:region>
+    <wb:adminregion id="MNA" iso2code="XQ">Middle East &amp; North Africa (excluding high income)</wb:adminregion>
+    <wb:incomeLevel id="LMC" iso2code="XN">Lower middle income</wb:incomeLevel>
+    <wb:lendingType id="IBD" iso2code="XF">IBRD</wb:lendingType>
+    <wb:capitalCity>Rabat</wb:capitalCity>
+    <wb:longitude>-6.8704</wb:longitude>
+    <wb:latitude>33.9905</wb:latitude>
+  </wb:country>
+  <wb:country id="MCO">
+    <wb:iso2Code>MC</wb:iso2Code>
+    <wb:name>Monaco</wb:name>
+    <wb:region id="ECS" iso2code="Z7">Europe &amp; Central Asia</wb:region>
+    <wb:adminregion id="" iso2code="" />
+    <wb:incomeLevel id="HIC" iso2code="XD">High income</wb:incomeLevel>
+    <wb:lendingType id="LNX" iso2code="XX">Not classified</wb:lendingType>
+    <wb:capitalCity>Monaco</wb:capitalCity>
+    <wb:longitude>7.41891</wb:longitude>
+    <wb:latitude>43.7325</wb:latitude>
+  </wb:country>
+  <wb:country id="MDA">
+    <wb:iso2Code>MD</wb:iso2Code>
+    <wb:name>Moldova</wb:name>
+    <wb:region id="ECS" iso2code="Z7">Europe &amp; Central Asia</wb:region>
+    <wb:adminregion id="ECA" iso2code="7E">Europe &amp; Central Asia (excluding high income)</wb:adminregion>
+    <wb:incomeLevel id="UMC" iso2code="XT">Upper middle income</wb:incomeLevel>
+    <wb:lendingType id="IBD" iso2code="XF">IBRD</wb:lendingType>
+    <wb:capitalCity>Chisinau</wb:capitalCity>
+    <wb:longitude>28.8497</wb:longitude>
+    <wb:latitude>47.0167</wb:latitude>
+  </wb:country>
+  <wb:country id="MDE">
+    <wb:iso2Code>M1</wb:iso2Code>
+    <wb:name>Middle East (developing only)</wb:name>
+    <wb:region id="NA" iso2code="NA">Aggregates</wb:region>
+    <wb:adminregion id="" iso2code="" />
+    <wb:incomeLevel id="NA" iso2code="NA">Aggregates</wb:incomeLevel>
+    <wb:lendingType id="" iso2code="">Aggregates</wb:lendingType>
+    <wb:capitalCity />
+    <wb:longitude />
+    <wb:latitude />
+  </wb:country>
+  <wb:country id="MDG">
+    <wb:iso2Code>MG</wb:iso2Code>
+    <wb:name>Madagascar</wb:name>
+    <wb:region id="SSF" iso2code="ZG">Sub-Saharan Africa </wb:region>
+    <wb:adminregion id="SSA" iso2code="ZF">Sub-Saharan Africa (excluding high income)</wb:adminregion>
+    <wb:incomeLevel id="LIC" iso2code="XM">Low income</wb:incomeLevel>
+    <wb:lendingType id="IDX" iso2code="XI">IDA</wb:lendingType>
+    <wb:capitalCity>Antananarivo</wb:capitalCity>
+    <wb:longitude>45.7167</wb:longitude>
+    <wb:latitude>-20.4667</wb:latitude>
+  </wb:country>
+  <wb:country id="MDV">
+    <wb:iso2Code>MV</wb:iso2Code>
+    <wb:name>Maldives</wb:name>
+    <wb:region id="SAS" iso2code="8S">South Asia</wb:region>
+    <wb:adminregion id="SAS" iso2code="8S">South Asia</wb:adminregion>
+    <wb:incomeLevel id="UMC" iso2code="XT">Upper middle income</wb:incomeLevel>
+    <wb:lendingType id="IDX" iso2code="XI">IDA</wb:lendingType>
+    <wb:capitalCity>Male</wb:capitalCity>
+    <wb:longitude>73.5109</wb:longitude>
+    <wb:latitude>4.1742</wb:latitude>
+  </wb:country>
+  <wb:country id="MEA">
+    <wb:iso2Code>ZQ</wb:iso2Code>
+    <wb:name>Middle East &amp; North Africa</wb:name>
+    <wb:region id="NA" iso2code="NA">Aggregates</wb:region>
+    <wb:adminregion id="" iso2code="" />
+    <wb:incomeLevel id="NA" iso2code="NA">Aggregates</wb:incomeLevel>
+    <wb:lendingType id="" iso2code="">Aggregates</wb:lendingType>
+    <wb:capitalCity />
+    <wb:longitude />
+    <wb:latitude />
+  </wb:country>
+  <wb:country id="MEX">
+    <wb:iso2Code>MX</wb:iso2Code>
+    <wb:name>Mexico</wb:name>
+    <wb:region id="LCN" iso2code="ZJ">Latin America &amp; Caribbean </wb:region>
+    <wb:adminregion id="LAC" iso2code="XJ">Latin America &amp; Caribbean (excluding high income)</wb:adminregion>
+    <wb:incomeLevel id="UMC" iso2code="XT">Upper middle income</wb:incomeLevel>
+    <wb:lendingType id="IBD" iso2code="XF">IBRD</wb:lendingType>
+    <wb:capitalCity>Mexico City</wb:capitalCity>
+    <wb:longitude>-99.1276</wb:longitude>
+    <wb:latitude>19.427</wb:latitude>
+  </wb:country>
+  <wb:country id="MHL">
+    <wb:iso2Code>MH</wb:iso2Code>
+    <wb:name>Marshall Islands</wb:name>
+    <wb:region id="EAS" iso2code="Z4">East Asia &amp; Pacific</wb:region>
+    <wb:adminregion id="EAP" iso2code="4E">East Asia &amp; Pacific (excluding high income)</wb:adminregion>
+    <wb:incomeLevel id="UMC" iso2code="XT">Upper middle income</wb:incomeLevel>
+    <wb:lendingType id="IDX" iso2code="XI">IDA</wb:lendingType>
+    <wb:capitalCity>Majuro</wb:capitalCity>
+    <wb:longitude>171.135</wb:longitude>
+    <wb:latitude>7.11046</wb:latitude>
+  </wb:country>
+  <wb:country id="MIC">
+    <wb:iso2Code>XP</wb:iso2Code>
+    <wb:name>Middle income</wb:name>
+    <wb:region id="NA" iso2code="NA">Aggregates</wb:region>
+    <wb:adminregion id="" iso2code="" />
+    <wb:incomeLevel id="NA" iso2code="NA">Aggregates</wb:incomeLevel>
+    <wb:lendingType id="" iso2code="">Aggregates</wb:lendingType>
+    <wb:capitalCity />
+    <wb:longitude />
+    <wb:latitude />
+  </wb:country>
+  <wb:country id="MKD">
+    <wb:iso2Code>MK</wb:iso2Code>
+    <wb:name>North Macedonia</wb:name>
+    <wb:region id="ECS" iso2code="Z7">Europe &amp; Central Asia</wb:region>
+    <wb:adminregion id="ECA" iso2code="7E">Europe &amp; Central Asia (excluding high income)</wb:adminregion>
+    <wb:incomeLevel id="UMC" iso2code="XT">Upper middle income</wb:incomeLevel>
+    <wb:lendingType id="IBD" iso2code="XF">IBRD</wb:lendingType>
+    <wb:capitalCity>Skopje</wb:capitalCity>
+    <wb:longitude>21.4361</wb:longitude>
+    <wb:latitude>42.0024</wb:latitude>
+  </wb:country>
+  <wb:country id="MLI">
+    <wb:iso2Code>ML</wb:iso2Code>
+    <wb:name>Mali</wb:name>
+    <wb:region id="SSF" iso2code="ZG">Sub-Saharan Africa </wb:region>
+    <wb:adminregion id="SSA" iso2code="ZF">Sub-Saharan Africa (excluding high income)</wb:adminregion>
+    <wb:incomeLevel id="LIC" iso2code="XM">Low income</wb:incomeLevel>
+    <wb:lendingType id="IDX" iso2code="XI">IDA</wb:lendingType>
+    <wb:capitalCity>Bamako</wb:capitalCity>
+    <wb:longitude>-7.50034</wb:longitude>
+    <wb:latitude>13.5667</wb:latitude>
+  </wb:country>
+  <wb:country id="MLT">
+    <wb:iso2Code>MT</wb:iso2Code>
+    <wb:name>Malta</wb:name>
+    <wb:region id="MEA" iso2code="ZQ">Middle East &amp; North Africa</wb:region>
+    <wb:adminregion id="" iso2code="" />
+    <wb:incomeLevel id="HIC" iso2code="XD">High income</wb:incomeLevel>
+    <wb:lendingType id="LNX" iso2code="XX">Not classified</wb:lendingType>
+    <wb:capitalCity>Valletta</wb:capitalCity>
+    <wb:longitude>14.5189</wb:longitude>
+    <wb:latitude>35.9042</wb:latitude>
+  </wb:country>
+  <wb:country id="MMR">
+    <wb:iso2Code>MM</wb:iso2Code>
+    <wb:name>Myanmar</wb:name>
+    <wb:region id="EAS" iso2code="Z4">East Asia &amp; Pacific</wb:region>
+    <wb:adminregion id="EAP" iso2code="4E">East Asia &amp; Pacific (excluding high income)</wb:adminregion>
+    <wb:incomeLevel id="LMC" iso2code="XN">Lower middle income</wb:incomeLevel>
+    <wb:lendingType id="IDX" iso2code="XI">IDA</wb:lendingType>
+    <wb:capitalCity>Naypyidaw</wb:capitalCity>
+    <wb:longitude>95.9562</wb:longitude>
+    <wb:latitude>21.914</wb:latitude>
+  </wb:country>
+  <wb:country id="MNA">
+    <wb:iso2Code>XQ</wb:iso2Code>
+    <wb:name>Middle East &amp; North Africa (excluding high income)</wb:name>
+    <wb:region id="NA" iso2code="NA">Aggregates</wb:region>
+    <wb:adminregion id="" iso2code="" />
+    <wb:incomeLevel id="NA" iso2code="NA">Aggregates</wb:incomeLevel>
+    <wb:lendingType id="" iso2code="">Aggregates</wb:lendingType>
+    <wb:capitalCity />
+    <wb:longitude />
+    <wb:latitude />
+  </wb:country>
+  <wb:country id="MNE">
+    <wb:iso2Code>ME</wb:iso2Code>
+    <wb:name>Montenegro</wb:name>
+    <wb:region id="ECS" iso2code="Z7">Europe &amp; Central Asia</wb:region>
+    <wb:adminregion id="ECA" iso2code="7E">Europe &amp; Central Asia (excluding high income)</wb:adminregion>
+    <wb:incomeLevel id="UMC" iso2code="XT">Upper middle income</wb:incomeLevel>
+    <wb:lendingType id="IBD" iso2code="XF">IBRD</wb:lendingType>
+    <wb:capitalCity>Podgorica</wb:capitalCity>
+    <wb:longitude>19.2595</wb:longitude>
+    <wb:latitude>42.4602</wb:latitude>
+  </wb:country>
+  <wb:country id="MNG">
+    <wb:iso2Code>MN</wb:iso2Code>
+    <wb:name>Mongolia</wb:name>
+    <wb:region id="EAS" iso2code="Z4">East Asia &amp; Pacific</wb:region>
+    <wb:adminregion id="EAP" iso2code="4E">East Asia &amp; Pacific (excluding high income)</wb:adminregion>
+    <wb:incomeLevel id="LMC" iso2code="XN">Lower middle income</wb:incomeLevel>
+    <wb:lendingType id="IBD" iso2code="XF">IBRD</wb:lendingType>
+    <wb:capitalCity>Ulaanbaatar</wb:capitalCity>
+    <wb:longitude>106.937</wb:longitude>
+    <wb:latitude>47.9129</wb:latitude>
+  </wb:country>
+  <wb:country id="MNP">
+    <wb:iso2Code>MP</wb:iso2Code>
+    <wb:name>Northern Mariana Islands</wb:name>
+    <wb:region id="EAS" iso2code="Z4">East Asia &amp; Pacific</wb:region>
+    <wb:adminregion id="" iso2code="" />
+    <wb:incomeLevel id="HIC" iso2code="XD">High income</wb:incomeLevel>
+    <wb:lendingType id="LNX" iso2code="XX">Not classified</wb:lendingType>
+    <wb:capitalCity>Saipan</wb:capitalCity>
+    <wb:longitude>145.765</wb:longitude>
+    <wb:latitude>15.1935</wb:latitude>
+  </wb:country>
+  <wb:country id="MOZ">
+    <wb:iso2Code>MZ</wb:iso2Code>
+    <wb:name>Mozambique</wb:name>
+    <wb:region id="SSF" iso2code="ZG">Sub-Saharan Africa </wb:region>
+    <wb:adminregion id="SSA" iso2code="ZF">Sub-Saharan Africa (excluding high income)</wb:adminregion>
+    <wb:incomeLevel id="LIC" iso2code="XM">Low income</wb:incomeLevel>
+    <wb:lendingType id="IDX" iso2code="XI">IDA</wb:lendingType>
+    <wb:capitalCity>Maputo</wb:capitalCity>
+    <wb:longitude>32.5713</wb:longitude>
+    <wb:latitude>-25.9664</wb:latitude>
+  </wb:country>
+  <wb:country id="MRT">
+    <wb:iso2Code>MR</wb:iso2Code>
+    <wb:name>Mauritania</wb:name>
+    <wb:region id="SSF" iso2code="ZG">Sub-Saharan Africa </wb:region>
+    <wb:adminregion id="SSA" iso2code="ZF">Sub-Saharan Africa (excluding high income)</wb:adminregion>
+    <wb:incomeLevel id="LMC" iso2code="XN">Lower middle income</wb:incomeLevel>
+    <wb:lendingType id="IDX" iso2code="XI">IDA</wb:lendingType>
+    <wb:capitalCity>Nouakchott</wb:capitalCity>
+    <wb:longitude>-15.9824</wb:longitude>
+    <wb:latitude>18.2367</wb:latitude>
+  </wb:country>
+  <wb:country id="MUS">
+    <wb:iso2Code>MU</wb:iso2Code>
+    <wb:name>Mauritius</wb:name>
+    <wb:region id="SSF" iso2code="ZG">Sub-Saharan Africa </wb:region>
+    <wb:adminregion id="SSA" iso2code="ZF">Sub-Saharan Africa (excluding high income)</wb:adminregion>
+    <wb:incomeLevel id="UMC" iso2code="XT">Upper middle income</wb:incomeLevel>
+    <wb:lendingType id="IBD" iso2code="XF">IBRD</wb:lendingType>
+    <wb:capitalCity>Port Louis</wb:capitalCity>
+    <wb:longitude>57.4977</wb:longitude>
+    <wb:latitude>-20.1605</wb:latitude>
+  </wb:country>
+  <wb:country id="MWI">
+    <wb:iso2Code>MW</wb:iso2Code>
+    <wb:name>Malawi</wb:name>
+    <wb:region id="SSF" iso2code="ZG">Sub-Saharan Africa </wb:region>
+    <wb:adminregion id="SSA" iso2code="ZF">Sub-Saharan Africa (excluding high income)</wb:adminregion>
+    <wb:incomeLevel id="LIC" iso2code="XM">Low income</wb:incomeLevel>
+    <wb:lendingType id="IDX" iso2code="XI">IDA</wb:lendingType>
+    <wb:capitalCity>Lilongwe</wb:capitalCity>
+    <wb:longitude>33.7703</wb:longitude>
+    <wb:latitude>-13.9899</wb:latitude>
+  </wb:country>
+  <wb:country id="MYS">
+    <wb:iso2Code>MY</wb:iso2Code>
+    <wb:name>Malaysia</wb:name>
+    <wb:region id="EAS" iso2code="Z4">East Asia &amp; Pacific</wb:region>
+    <wb:adminregion id="EAP" iso2code="4E">East Asia &amp; Pacific (excluding high income)</wb:adminregion>
+    <wb:incomeLevel id="UMC" iso2code="XT">Upper middle income</wb:incomeLevel>
+    <wb:lendingType id="IBD" iso2code="XF">IBRD</wb:lendingType>
+    <wb:capitalCity>Kuala Lumpur</wb:capitalCity>
+    <wb:longitude>101.684</wb:longitude>
+    <wb:latitude>3.12433</wb:latitude>
+  </wb:country>
+  <wb:country id="NAC">
+    <wb:iso2Code>XU</wb:iso2Code>
+    <wb:name>North America</wb:name>
+    <wb:region id="NA" iso2code="NA">Aggregates</wb:region>
+    <wb:adminregion id="" iso2code="" />
+    <wb:incomeLevel id="NA" iso2code="NA">Aggregates</wb:incomeLevel>
+    <wb:lendingType id="" iso2code="">Aggregates</wb:lendingType>
+    <wb:capitalCity />
+    <wb:longitude />
+    <wb:latitude />
+  </wb:country>
+  <wb:country id="NAF">
+    <wb:iso2Code>M2</wb:iso2Code>
+    <wb:name>North Africa</wb:name>
+    <wb:region id="NA" iso2code="NA">Aggregates</wb:region>
+    <wb:adminregion id="" iso2code="" />
+    <wb:incomeLevel id="NA" iso2code="NA">Aggregates</wb:incomeLevel>
+    <wb:lendingType id="" iso2code="">Aggregates</wb:lendingType>
+    <wb:capitalCity />
+    <wb:longitude />
+    <wb:latitude />
+  </wb:country>
+  <wb:country id="NAM">
+    <wb:iso2Code>NA</wb:iso2Code>
+    <wb:name>Namibia</wb:name>
+    <wb:region id="SSF" iso2code="ZG">Sub-Saharan Africa </wb:region>
+    <wb:adminregion id="SSA" iso2code="ZF">Sub-Saharan Africa (excluding high income)</wb:adminregion>
+    <wb:incomeLevel id="UMC" iso2code="XT">Upper middle income</wb:incomeLevel>
+    <wb:lendingType id="IBD" iso2code="XF">IBRD</wb:lendingType>
+    <wb:capitalCity>Windhoek</wb:capitalCity>
+    <wb:longitude>17.0931</wb:longitude>
+    <wb:latitude>-22.5648</wb:latitude>
+  </wb:country>
+  <wb:country id="NCL">
+    <wb:iso2Code>NC</wb:iso2Code>
+    <wb:name>New Caledonia</wb:name>
+    <wb:region id="EAS" iso2code="Z4">East Asia &amp; Pacific</wb:region>
+    <wb:adminregion id="" iso2code="" />
+    <wb:incomeLevel id="HIC" iso2code="XD">High income</wb:incomeLevel>
+    <wb:lendingType id="LNX" iso2code="XX">Not classified</wb:lendingType>
+    <wb:capitalCity>Noum'ea</wb:capitalCity>
+    <wb:longitude>166.464</wb:longitude>
+    <wb:latitude>-22.2677</wb:latitude>
+  </wb:country>
+</wb:countries>
